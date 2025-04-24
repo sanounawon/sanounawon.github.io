@@ -18,7 +18,7 @@
     "href": "experiences.html#ingénieur-coeur-data-mobile",
     "title": "Expériences",
     "section": "Ingénieur Coeur Data Mobile",
-    "text": "Ingénieur Coeur Data Mobile\n01/2018 - 01/2022 | BOUYGUES TELECOMS - Meudon\n\nIntégration SGSN-MME Ericsson (Virtual et BareMetal) ;\n\n\nDéploiement de SPGWs Cisco définition de la stratégie de mise en service ;\n\n\nRédaction HLD/LLD et suivi des évolutions d’outils ;\n\n\nSuivi et analyse du trafic data APN Grand Public ;\n\n\nEnvironnement technique : (v)SGSN-MME, (v)SPGW, et systèmes périphériques.\n\n\nOutils : Grafana, Bogedo, Node, Frontlinker, Front IP, Loop."
+    "text": "Ingénieur Coeur Data Mobile\n01/2018 - 01/2022 | BOUYGUES TELECOMS - Meudon\n\nIntégration SGSN-MME Ericsson (Virtual et BareMetal) ;\n\n\nDéploiement de SPGWs Cisco et définition de la stratégie de mise en service ;\n\n\nRédaction HLD/LLD et suivi des évolutions d’outils ;\n\n\nSuivi et analyse du trafic data APN Grand Public ;\n\n\nEnvironnement technique : (v)SGSN-MME, (v)SPGW, et systèmes périphériques.\n\n\nOutils : Grafana, Bogedo, Node, Frontlinker, Front IP, Loop."
   },
   {
     "objectID": "experiences.html#ingénieur-exploitation-coeur-voix-et-data",
@@ -60,7 +60,7 @@
     "href": "index.html#certificats",
     "title": "S. Alain NOUNAWON",
     "section": "Certificats",
-    "text": "Certificats\n\n2024-2025 : Certificats Analyse de données et Apprentissage statistique | CNAM Paris\n\nAnalyse de données : méthodes descriptives\n\nExplorer, décrire et interpréter des données dans leur aspect multidimensionnel\n\nApprentissage statistique : modélisation décisionnelle et apprentissage profond\n\nconstruire des modèles prédictifs à partir de jeux de données empiriques\n\nApprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones\n\nAnalyser des données, mettre en œuvre une modélisation descriptive, un modèle décisionnel à base de réseaux de neurones multi-couches\n\n\n2023-2024 : Certificat Data Scientist | ENSAE-ENSAI, Issy-les-Moulineaux\n\nCollecter, décrypter, analyser et prédire à partir de mégadonnées"
+    "text": "Certificats\n\n2024-2025 : Certificats Analyse de données et Apprentissage statistique | CNAM Paris\n\nAnalyse de données : méthodes descriptives\n\nExplorer, décrire et interpréter des données dans leur aspect multidimensionnel\n\nApprentissage statistique : modélisation décisionnelle et apprentissage profond\n\nConstruire des modèles prédictifs à partir de jeux de données empiriques\n\nApprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones\n\nAnalyser des données, mettre en œuvre une modélisation descriptive, un modèle décisionnel à base de réseaux de neurones multi-couches\n\n\n2023-2024 : Certificat Data Scientist | ENSAE-ENSAI, Issy-les-Moulineaux\n\nCollecter, décrypter, analyser et prédire à partir de mégadonnées"
   },
   {
     "objectID": "index.html#diplômes-etudes",
@@ -74,34 +74,41 @@
     "href": "competences.html",
     "title": "Compétences",
     "section": "",
-    "text": "Collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, SVM, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit\nLangages de programmation : Python, R, SQL\nOutils : Jupyter, RStudio, Power BI, Git, Excel"
+    "text": "Collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, SVM, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit ;\nLangages de programmation : Python, R, SQL ;\nOutils : Jupyter, RStudio, Power BI, Git, Excel."
   },
   {
     "objectID": "competences.html#data-science",
     "href": "competences.html#data-science",
     "title": "Compétences",
     "section": "",
-    "text": "Collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, SVM, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit\nLangages de programmation : Python, R, SQL\nOutils : Jupyter, RStudio, Power BI, Git, Excel"
+    "text": "Collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, SVM, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit ;\nLangages de programmation : Python, R, SQL ;\nOutils : Jupyter, RStudio, Power BI, Git, Excel."
   },
   {
     "objectID": "competences.html#base-de-données",
     "href": "competences.html#base-de-données",
     "title": "Compétences",
     "section": "Base de données",
-    "text": "Base de données\n\nExploitation Base de données SQL : Microsoft SQL Server, Oracle, MySQL, PostgreSQL\nBase de données NoSQL et calcul distribué : MongoDB, Cassandra, CouchDB, ElasticSearch, Spark, Flink"
+    "text": "Base de données\n\nExploitation Base de données SQL : Microsoft SQL Server, Oracle, MySQL, PostgreSQL ;\nBase de données NoSQL et calcul distribué : MongoDB, Cassandra, CouchDB, ElasticSearch, Spark, Flink."
   },
   {
     "objectID": "competences.html#télécoms",
     "href": "competences.html#télécoms",
     "title": "Compétences",
     "section": "Télécoms",
-    "text": "Télécoms\n\nArchitectures Cœur de réseaux 2G/3G/4G/5G ;\nProtocoles DIAMETER/SIGTRAN/SS7, supervision, optimisation réseau\nFormations professionnelles :\n\nLe système 5G de bout en bout : architecture, procédures, et interfonctionnement avec la 4G | Juin 2022, EFORT - Vélizy-Villacoublay\nRéseau Coeur 5G | Novembre 2020, EFORT - Vélizy-Villacoublay\nCisco Certified Network Associate Routing & Switching (CCNA) | Août 2017, Global Knowledge - Rueil-Malmaison"
+    "text": "Télécoms\n\nArchitectures Cœur de réseaux 2G/3G/4G/5G ;\nProtocoles DIAMETER / SIGTRAN / SS7\nFormations professionnelles :\n\nLe système 5G de bout en bout : architecture, procédures, et interfonctionnement avec la 4G | Juin 2022, EFORT - Vélizy-Villacoublay ;\nRéseau Coeur 5G | Novembre 2020, EFORT - Vélizy-Villacoublay ;\nCisco Certified Network Associate Routing & Switching (CCNA) | Août 2017, Global Knowledge - Rueil-Malmaison."
   },
   {
     "objectID": "competences.html#gestion-de-projet",
     "href": "competences.html#gestion-de-projet",
     "title": "Compétences",
     "section": "Gestion de projet",
-    "text": "Gestion de projet\n\nGestion des services informatiques\n\nCertifié ITIL V4 - Foundation | Juillet 2021, AXELOS - PARIS\n\nCoordination de projet\n\nCertifié PRINCE2 - Foundation | Octobre 2019, AXELOS - Paris"
+    "text": "Gestion de projet\n\nGestion des services informatiques\n\nCertifié ITIL V4 - Foundation | Juillet 2021, AXELOS - Paris\n\nCoordination de projet\n\nCertifié PRINCE2 - Foundation | Octobre 2019, AXELOS - Paris"
+  },
+  {
+    "objectID": "competences.html#langues",
+    "href": "competences.html#langues",
+    "title": "Compétences",
+    "section": "Langues",
+    "text": "Langues\n\nAnglais : technique et professionnel"
   }
 ]
