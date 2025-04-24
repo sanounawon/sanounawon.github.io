@@ -26,7 +26,7 @@ title: "Expériences"
 
 <li>Intégration SGSN-MME Ericsson (Virtual et BareMetal) ;</li>
 
-<li>Déploiement de SPGWs Cisco définition de la stratégie de mise en service ;</li>
+<li>Déploiement de SPGWs Cisco et définition de la stratégie de mise en service ;</li>
 
 <li>Rédaction HLD/LLD et suivi des évolutions d'outils ;</li>
 

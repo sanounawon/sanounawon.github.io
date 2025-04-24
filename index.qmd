@@ -24,12 +24,12 @@ Après 15 années d'expérience en exploitation et ingénierie cœur de réseaux
 ## Certificats
 
 -   **2024-2025 : Certificats Analyse de données et Apprentissage statistique \| CNAM Paris**
-    -   **Analyse de données : méthodes descriptives**
-        -   Explorer, décrire et interpréter des données dans leur aspect multidimensionnel
-    -   **Apprentissage statistique : modélisation décisionnelle et apprentissage profond**
-        -   construire des modèles prédictifs à partir de jeux de données empiriques
-    -   **Apprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones**
-        -   Analyser des données, mettre en œuvre une modélisation descriptive, un modèle décisionnel à base de réseaux de neurones multi-couches
+    -   Analyse de données : méthodes descriptives
+        -   *Explorer, décrire et interpréter des données dans leur aspect multidimensionnel*
+    -   Apprentissage statistique : modélisation décisionnelle et apprentissage profond
+        -   *Construire des modèles prédictifs à partir de jeux de données empiriques*
+    -   Apprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones
+        -   *Analyser des données, mettre en œuvre une modélisation descriptive, un modèle décisionnel à base de réseaux de neurones multi-couches*
 -   **2023-2024 : Certificat Data Scientist \| ENSAE-ENSAI, Issy-les-Moulineaux**
     -   Collecter, décrypter, analyser et prédire à partir de mégadonnées
 

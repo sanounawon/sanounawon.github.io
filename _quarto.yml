@@ -8,7 +8,7 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: Qui suis-je
+        text: Qui suis-je ?
       - href: competences.qmd
         text: Compétences
       - href: experiences.qmd
