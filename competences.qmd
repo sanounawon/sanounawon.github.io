@@ -4,18 +4,21 @@ title: "Compétences"
 
 ## Data Science
 
--   Collecte, nettoyage ;
+-   Programmation : Python (NumPy, Pandas, Matplotlib/Seaborn/Plotly, Scikit-learn), R (Tidyverse, Tidymodels), SQL
+-   Pipeline de traitements : collecte, nettoyage ;
 -   Exploration de données : analyses univariée et bivariée, statistiques inférentielles ;
--   Modélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;
--   Modélisation prédictive : régression linéaire/logistique, arbres de décision, SVM, forêts aléatoires, Bagging, Boosting ;
--   Mise en production : Shiny, Streamlit ;
--   Langages de programmation : Python, R, SQL ;
--   Outils : Jupyter, RStudio, Power BI, Git, Excel.
+-   Machine learning :
+    -   Modélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;
+    -   Modélisation prédictive : régression linéaire/logistique, arbres de décision, forêts aléatoires, Bagging, Boosting ;
+    -   Mise en production : Shiny, Streamlit, FastAPI/Flask.
+-   Deep Learning, Text Mining : TensorFlow, Keras, PyTorch, transformers (Hugging Face) ;
+-   Big data processing avec Spark ;
+-   Outils : Google Cloud Platform (AirFlow, BigQuery), Jupyter, RStudio, Power BI, Git, Excel.
 
 ## Base de données
 
--   Exploitation Base de données SQL : Microsoft SQL Server, Oracle, MySQL, PostgreSQL ;
--   Base de données NoSQL et calcul distribué : MongoDB, Cassandra, CouchDB, ElasticSearch, Spark, Flink.
+-   Base de données SQL - administration et exploitation sous Microsoft SQL Server, Oracle, MySQL, PostgreSQL ;
+-   Base de données NoSQL et calcul distribué avec Docker, MongoDB, Cassandra, CouchDB, ElasticSearch, Spark, Flink.
 
 ## Télécoms
 
