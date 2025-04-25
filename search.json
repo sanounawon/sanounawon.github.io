@@ -7,8 +7,8 @@
     "text": "01/2022 - 02/2024 | ORANGE France - Arcueil\n\nMise en œuvre d’un canal bidirectionnel pour l’échange de sms entre clients mobiles et marques avec résolution de portabilité des numéros de marques ;\n\n\nUpgrade EPAP et STP ;\n\n\nIntégration aux STP des MVNOs, vTAS, vHLR, SMSF ;\n\n\nSMS Interworking et coordination SMS jour de l’an ;\n\n\nGestion des tranches mobiles.\n\n\nEnvironnement technique : SMSC, EPAP/SRF et systèmes périphériques ;\n\n\nOutils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN."
   },
   {
-    "objectID": "experiences.html#ingénieur---chef-de-projet-signlisation-et-messaging",
-    "href": "experiences.html#ingénieur---chef-de-projet-signlisation-et-messaging",
+    "objectID": "experiences.html#ingénieur---chef-de-projet-signalisation-et-messaging",
+    "href": "experiences.html#ingénieur---chef-de-projet-signalisation-et-messaging",
     "title": "Expériences",
     "section": "",
     "text": "01/2022 - 02/2024 | ORANGE France - Arcueil\n\nMise en œuvre d’un canal bidirectionnel pour l’échange de sms entre clients mobiles et marques avec résolution de portabilité des numéros de marques ;\n\n\nUpgrade EPAP et STP ;\n\n\nIntégration aux STP des MVNOs, vTAS, vHLR, SMSF ;\n\n\nSMS Interworking et coordination SMS jour de l’an ;\n\n\nGestion des tranches mobiles.\n\n\nEnvironnement technique : SMSC, EPAP/SRF et systèmes périphériques ;\n\n\nOutils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN."
@@ -74,21 +74,21 @@
     "href": "competences.html",
     "title": "Compétences",
     "section": "",
-    "text": "Collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, SVM, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit ;\nLangages de programmation : Python, R, SQL ;\nOutils : Jupyter, RStudio, Power BI, Git, Excel."
+    "text": "Programmation : Python (NumPy, Pandas, Matplotlib/Seaborn/Plotly, Scikit-learn), R (Tidyverse, Tidymodels), SQL\nPipeline de traitements : collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nMachine learning :\n\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit, FastAPI/Flask.\n\nDeep Learning, Text Mining : TensorFlow, Keras, PyTorch, transformers (Hugging Face) ;\nBig data processing avec Spark ;\nOutils : Google Cloud Platform (AirFlow, BigQuery), Jupyter, RStudio, Power BI, Git, Excel."
   },
   {
     "objectID": "competences.html#data-science",
     "href": "competences.html#data-science",
     "title": "Compétences",
     "section": "",
-    "text": "Collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, SVM, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit ;\nLangages de programmation : Python, R, SQL ;\nOutils : Jupyter, RStudio, Power BI, Git, Excel."
+    "text": "Programmation : Python (NumPy, Pandas, Matplotlib/Seaborn/Plotly, Scikit-learn), R (Tidyverse, Tidymodels), SQL\nPipeline de traitements : collecte, nettoyage ;\nExploration de données : analyses univariée et bivariée, statistiques inférentielles ;\nMachine learning :\n\nModélisation descriptive : analyse factorielle (ACP, ACM, AFDM), classification (K-Means, CAH) ;\nModélisation prédictive : régression linéaire/logistique, arbres de décision, forêts aléatoires, Bagging, Boosting ;\nMise en production : Shiny, Streamlit, FastAPI/Flask.\n\nDeep Learning, Text Mining : TensorFlow, Keras, PyTorch, transformers (Hugging Face) ;\nBig data processing avec Spark ;\nOutils : Google Cloud Platform (AirFlow, BigQuery), Jupyter, RStudio, Power BI, Git, Excel."
   },
   {
     "objectID": "competences.html#base-de-données",
     "href": "competences.html#base-de-données",
     "title": "Compétences",
     "section": "Base de données",
-    "text": "Base de données\n\nExploitation Base de données SQL : Microsoft SQL Server, Oracle, MySQL, PostgreSQL ;\nBase de données NoSQL et calcul distribué : MongoDB, Cassandra, CouchDB, ElasticSearch, Spark, Flink."
+    "text": "Base de données\n\nBase de données SQL - administration et exploitation sous Microsoft SQL Server, Oracle, MySQL, PostgreSQL ;\nBase de données NoSQL et calcul distribué avec Docker, MongoDB, Cassandra, CouchDB, ElasticSearch, Spark, Flink."
   },
   {
     "objectID": "competences.html#télécoms",
