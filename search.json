@@ -4,21 +4,21 @@
     "href": "experiences.html",
     "title": "Expériences",
     "section": "",
-    "text": "01/2022 - 02/2024 | ORANGE France - Arcueil\n\nMise en œuvre d’un canal bidirectionnel pour l’échange de sms entre clients mobiles et marques avec résolution de portabilité des numéros de marques ;\n\n\nUpgrade EPAP et STP ;\n\n\nIntégration aux STP des MVNOs, vTAS, vHLR, SMSF ;\n\n\nSMS Interworking et coordination SMS jour de l’an ;\n\n\nGestion des tranches mobiles.\n\n\nEnvironnement technique : SMSC, EPAP/SRF et systèmes périphériques ;\n\n\nOutils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN."
+    "text": "01/2022 - 02/2024 | ORANGE France - Arcueil\n\nMise en œuvre d’un canal bidirectionnel pour l’échange de sms entre clients mobiles et marques avec résolution de portabilité des numéros de marques ;\n\n\nUpgrade EPAP et STP ;\n\n\nIntégration aux STP des MVNOs, vTAS, vHLR, SMSF ;\n\n\nSMS Interworking et coordination SMS jour de l’an ;\n\n\nGestion des tranches mobiles.\n\n\nEnvironnement technique : SMSC, EPAP/SRF et systèmes périphériques ;\n\n\nOutils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN, Clic & Run, Confluence."
   },
   {
     "objectID": "experiences.html#ingénieur---chef-de-projet-signalisation-et-messaging",
     "href": "experiences.html#ingénieur---chef-de-projet-signalisation-et-messaging",
     "title": "Expériences",
     "section": "",
-    "text": "01/2022 - 02/2024 | ORANGE France - Arcueil\n\nMise en œuvre d’un canal bidirectionnel pour l’échange de sms entre clients mobiles et marques avec résolution de portabilité des numéros de marques ;\n\n\nUpgrade EPAP et STP ;\n\n\nIntégration aux STP des MVNOs, vTAS, vHLR, SMSF ;\n\n\nSMS Interworking et coordination SMS jour de l’an ;\n\n\nGestion des tranches mobiles.\n\n\nEnvironnement technique : SMSC, EPAP/SRF et systèmes périphériques ;\n\n\nOutils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN."
+    "text": "01/2022 - 02/2024 | ORANGE France - Arcueil\n\nMise en œuvre d’un canal bidirectionnel pour l’échange de sms entre clients mobiles et marques avec résolution de portabilité des numéros de marques ;\n\n\nUpgrade EPAP et STP ;\n\n\nIntégration aux STP des MVNOs, vTAS, vHLR, SMSF ;\n\n\nSMS Interworking et coordination SMS jour de l’an ;\n\n\nGestion des tranches mobiles.\n\n\nEnvironnement technique : SMSC, EPAP/SRF et systèmes périphériques ;\n\n\nOutils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN, Clic & Run, Confluence."
   },
   {
     "objectID": "experiences.html#ingénieur-coeur-data-mobile",
     "href": "experiences.html#ingénieur-coeur-data-mobile",
     "title": "Expériences",
     "section": "Ingénieur Coeur Data Mobile",
-    "text": "Ingénieur Coeur Data Mobile\n01/2018 - 01/2022 | BOUYGUES TELECOMS - Meudon\n\nIntégration SGSN-MME Ericsson (Virtual et BareMetal) ;\n\n\nDéploiement de SPGWs Cisco et définition de la stratégie de mise en service ;\n\n\nRédaction HLD/LLD et suivi des évolutions d’outils ;\n\n\nSuivi et analyse du trafic data APN Grand Public ;\n\n\nEnvironnement technique : (v)SGSN-MME, (v)SPGW, et systèmes périphériques.\n\n\nOutils : Grafana, Bogedo, Node, Frontlinker, Front IP, Loop."
+    "text": "Ingénieur Coeur Data Mobile\n01/2018 - 01/2022 | BOUYGUES TELECOMS - Meudon\n\nIntégration SGSN-MME Ericsson (Virtual et BareMetal) ;\n\n\nDéploiement de SPGWs Cisco et définition de la stratégie de mise en service ;\n\n\nRédaction HLD/LLD et suivi des évolutions d’outils ;\n\n\nSuivi et analyse du trafic data APN Grand Public ;\n\n\nEnvironnement technique : (v)SGSN-MME, (v)SPGW, et systèmes périphériques.\n\n\nOutils : Grafana, Bogedo, Node, Frontlinker, Front IP, Loop, Jira."
   },
   {
     "objectID": "experiences.html#ingénieur-exploitation-coeur-voix-et-data",
