@@ -18,7 +18,7 @@ title: "Expériences"
 
 <li>Environnement technique : SMSC, EPAP/SRF et systèmes périphériques ;</li>
 
-<li>Outils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN.</li>
+<li>Outils : Anritsu, Wireshark, Business Tools, Grafana, NOE, SWAN, Clic & Run, Confluence.</li>
 
 ## Ingénieur Coeur Data Mobile
 
@@ -34,7 +34,7 @@ title: "Expériences"
 
 <li>Environnement technique : (v)SGSN-MME, (v)SPGW, et systèmes périphériques.</li>
 
-<li>Outils : Grafana, Bogedo, Node, Frontlinker, Front IP, Loop.</li>
+<li>Outils : Grafana, Bogedo, Node, Frontlinker, Front IP, Loop, Jira.</li>
 
 ## Ingénieur Exploitation Coeur Voix et Data
 
